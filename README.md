@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript,C++**
 
-- 📫 How to reach me **[Utkarsh](https://www.linkedin.com/in/utkarsh-upadhyay-b68905256)**
+- 📫 How to reach me **[Ravikant](itsmejangid.rk@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 
