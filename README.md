@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 💬 Ask me about **HTML,CSS,Javascript,C++**
+- 💬 Ask me about **HTML,CSS,Javascript,C++,React**
 
 - 📫 How to reach me **[Ravikant](itsmejangid.rk@gmail.com)**
 
